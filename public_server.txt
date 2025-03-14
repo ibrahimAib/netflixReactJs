@@ -1,0 +1,3 @@
+url => dashboard.ngrok.com
+
+command => ngrok http http://localhost:5173
